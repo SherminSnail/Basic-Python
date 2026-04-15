@@ -14,5 +14,5 @@ while True:
         print("Player 2: Your number is greater than the searched number")
         number_of_attempts += 1
     else:
-        print(f"HEUREKA: {quiz_number} is the number you are looking for. You have {number_of_attempts} Trials needed!")
+        print(f"Eurika!!!: {quiz_number} is the number you are looking for. You have {number_of_attempts} Trials needed!")
         break
